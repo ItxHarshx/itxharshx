@@ -10,10 +10,12 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!----# Github Analytics 
+<!----
+# Github Analytics 
 ![](https://github-readme-stats.shion.dev/api?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Itxharshx&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)---->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---->
 
 ## 🔥 Contribution Streak
 
@@ -56,8 +58,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxharshx)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brandedpsycho)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.badge?logo=Instagram&logoColor=white)](https://instagram.com/Itx.harsh.o_0) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brandedpsycho) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandedpsycho)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxharshx@gmail.com)
 
