@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itxharshx&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itxharshx&show_icons=true&theme=radical)](https://github.com/itxharshx)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxharshx&layout=compact&theme=midnight-purple&hide=css&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxharshx&layout=compact&theme=radical)](https://github.com/itxharshx)
 
 </div>
 
