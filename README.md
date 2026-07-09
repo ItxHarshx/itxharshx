@@ -10,6 +10,11 @@
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+# Github Analytics 
+![](https://github-readme-stats.shion.dev/api?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Itxharshx&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🔥 Contribution Streak
 
 <div align="center">
