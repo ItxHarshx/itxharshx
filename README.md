@@ -8,31 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=B041FF&size=24&width=400&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itxharshx&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=GitHub%20Analytics&include_all_commits=true&hide_border=true&bg_color=000000)](https://github.com/itxharshx)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itxharshx&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/itxharshx)
-
-</div>
-
----
-
-## My Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itxharshx&show_icons=true&theme=radical)](https://github.com/itxharshx)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxharshx&layout=compact&theme=radical)](https://github.com/itxharshx)
-
-</div>
-
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🔥 Contribution Streak
 
@@ -42,7 +18,7 @@
 
 </div>
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💻 Languages and Tools
 
@@ -67,7 +43,7 @@
 
 </div>
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📱 Connect With Me
 
@@ -80,22 +56,16 @@
 
 </div>
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌟 About Me
 
 - Currently I'm learning Web Development, Passionate about coding and open source.
-
----
-
+- 
 <div align="center">
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Thanks for visiting! 🍃
-
-**Star ⭐ this repository if you like it!**
-
-![Visitors Count](https://komarev.com/ghpvc/?username=itxharshx&color=blueviolet)
 
 </div>
