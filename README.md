@@ -68,8 +68,8 @@
 
 ## 🌟 About Me
 
-- Currently I'm learning Web Development, Passionate about coding and open source.
-- 
+- All or most of my repositories are private. Currently I'm learning Web Development, Passionate about coding and open source.
+
 <div align="center">
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
