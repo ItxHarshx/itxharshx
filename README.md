@@ -19,11 +19,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Itxharshx&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---->
 
-## 🔥 Contribution Streak
+## Github Analytics 
 
 <div align="center">
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itxharshx&theme=dark&hide_border=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itxharshx&theme=0F0F0F&hide_border=false)
+
+<a href="https://github.com/"><img alt="Contribution Graph" src="https://ghactivity.mrayush.me/graph?username=itxharshx&bg_color=dark&color=F8D866&line=413839&point=FFFFFF&hide_border=false" /></a>
 
 </div>
 
