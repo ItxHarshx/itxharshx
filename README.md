@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hello! I'm Harsh Rajput
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hello! I'm Harsh
 
 </div>
 
